@@ -1,5 +1,5 @@
 {
-    "name": "Eurolink/hawk",
+    "name": "eurolink/hawk",
     "type": "library",
     "description": "Hawk",
     "keywords": ["hawk", "authentication", "bewit"],
